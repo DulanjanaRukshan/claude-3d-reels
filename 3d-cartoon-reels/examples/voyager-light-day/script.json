@@ -1,0 +1,289 @@
+{
+ "title": "Voyager 1 is one light-day from Earth",
+ "voices": {
+  "me": {
+   "voice": "am_michael",
+   "speed": 1.0
+  },
+  "sk": {
+   "voice": "af_heart",
+   "speed": 1.04,
+   "pitch": 1.13
+  }
+ },
+ "spoken_len": {
+  "1977": 22,
+  "24": 10,
+  "25.9": 18,
+  "49": 9,
+  "61,000": 18,
+  "17,600": 30,
+  "2035": 14,
+  "1": 3,
+  "2": 3,
+  "AI": 4
+ },
+ "sfx": {
+  "card_lines": [
+   0,
+   1,
+   3,
+   4,
+   6,
+   7,
+   8,
+   9,
+   10,
+   13,
+   14,
+   15
+  ],
+  "chip_lines": [
+   2,
+   3,
+   6,
+   9,
+   13
+  ],
+  "impacts": [
+   [
+    1,
+    "now",
+    0.3,
+    0.9
+   ],
+   [
+    7,
+    "wait",
+    0.0,
+    0.7
+   ],
+   [
+    15,
+    "2035.",
+    0,
+    0.7
+   ]
+  ],
+  "counters": [
+   [
+    0,
+    "1977",
+    "1977",
+    0,
+    2.2
+   ],
+   [
+    4,
+    "That's",
+    "kilometers.",
+    0,
+    0
+   ],
+   [
+    9,
+    "about",
+    "kilometers",
+    0,
+    0
+   ],
+   [
+    10,
+    "it",
+    "years.",
+    0,
+    0
+   ]
+  ],
+  "typing": [
+   [
+    0,
+    "1977",
+    1.6,
+    0.8
+   ],
+   [
+    1,
+    "now",
+    0.0,
+    0.7
+   ],
+   [
+    7,
+    "Ask",
+    0.3,
+    0.6
+   ],
+   [
+    14,
+    "It",
+    0.2,
+    0.8
+   ]
+  ],
+  "cta_impact_word": "Subscribe",
+  "cta_chime_word": "videos",
+  "cta_click_word": "channel"
+ },
+ "lines": [
+  {
+   "spk": "me",
+   "text": "A spacecraft from 1977 just did something no machine ever has.",
+   "say": "A spacecraft from nineteen seventy-seven just did something no machine ever has.",
+   "kw": [
+    "1977",
+    "no",
+    "machine"
+   ]
+  },
+  {
+   "spk": "sk",
+   "text": "Voyager 1 is now one full light-day from Earth!",
+   "say": "Voyager One is now one full light-day from Earth!",
+   "kw": [
+    "Voyager",
+    "1",
+    "light-day"
+   ]
+  },
+  {
+   "spk": "me",
+   "text": "Wait. What even is a light-day?",
+   "say": "Wait. What even is a light-day?",
+   "kw": [
+    "light-day?"
+   ]
+  },
+  {
+   "spk": "sk",
+   "text": "Step one. It's how far light travels in 24 hours.",
+   "say": "Step one. It's how far light travels in twenty-four hours.",
+   "kw": [
+    "light",
+    "24",
+    "hours."
+   ]
+  },
+  {
+   "spk": "sk",
+   "text": "That's about 25.9 billion kilometers.",
+   "say": "That's about twenty-five point nine billion kilometers.",
+   "kw": [
+    "25.9",
+    "billion",
+    "kilometers."
+   ]
+  },
+  {
+   "spk": "me",
+   "text": "So a message takes a whole day to reach it?",
+   "say": "So a message takes a whole day to reach it?",
+   "kw": [
+    "whole",
+    "day"
+   ]
+  },
+  {
+   "spk": "sk",
+   "text": "Step two. Yep, 24 hours, one way.",
+   "say": "Step two. Yep, twenty-four hours, one way.",
+   "kw": [
+    "24",
+    "hours,"
+   ]
+  },
+  {
+   "spk": "sk",
+   "text": "Ask it a question, wait two days for the answer.",
+   "say": "Ask it a question, wait two days for the answer.",
+   "kw": [
+    "two",
+    "days"
+   ]
+  },
+  {
+   "spk": "me",
+   "text": "And it took 49 years to get that far?",
+   "say": "And it took forty-nine years to get that far?",
+   "kw": [
+    "49",
+    "years"
+   ]
+  },
+  {
+   "spk": "sk",
+   "text": "Step three. It flies about 61,000 kilometers an hour.",
+   "say": "Step three. It flies about sixty-one thousand kilometers an hour.",
+   "kw": [
+    "61,000",
+    "kilometers"
+   ]
+  },
+  {
+   "spk": "sk",
+   "text": "One light-year would take it 17,600 years.",
+   "say": "One light-year would take it seventeen thousand six hundred years.",
+   "kw": [
+    "light-year",
+    "17,600",
+    "years."
+   ]
+  },
+  {
+   "spk": "me",
+   "text": "Cool. I'll wait.",
+   "say": "Cool. I'll wait.",
+   "kw": [
+    "wait."
+   ]
+  },
+  {
+   "spk": "me",
+   "text": "Okay, that's wild. Is it still working?",
+   "say": "Okay, that's wild. Is it still working?",
+   "kw": [
+    "wild.",
+    "working?"
+   ]
+  },
+  {
+   "spk": "sk",
+   "text": "Still phoning home, from interstellar space.",
+   "say": "Still phoning home, from interstellar space.",
+   "kw": [
+    "phoning",
+    "home,",
+    "interstellar"
+   ]
+  },
+  {
+   "spk": "sk",
+   "text": "It still carries a golden record of sounds from Earth.",
+   "say": "It still carries a golden record of sounds from Earth.",
+   "kw": [
+    "golden",
+    "record"
+   ]
+  },
+  {
+   "spk": "sk",
+   "text": "And Voyager 2 hits the same mark in 2035.",
+   "say": "And Voyager Two hits the same mark in twenty thirty-five.",
+   "kw": [
+    "Voyager",
+    "2",
+    "2035."
+   ]
+  },
+  {
+   "spk": "me",
+   "text": "Subscribe to my channel for more videos like this!",
+   "say": "Subscribe to my channel for more videos like this!",
+   "kw": [
+    "Subscribe",
+    "more",
+    "videos"
+   ]
+  }
+ ]
+}
