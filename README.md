@@ -25,8 +25,8 @@ ElevenLabs, stock audio, or API keys.
 
 **Claude Code:**
 ```bash
-git clone https://github.com/<you>/3d-cartoon-reels-skill.git
-cp -r 3d-cartoon-reels-skill/3d-cartoon-reels ~/.claude/skills/
+git clone https://github.com/<you>/claude-3d-reels.git
+cp -r claude-3d-reels/3d-cartoon-reels ~/.claude/skills/
 ```
 
 Then ask: *"Make a 50-second 3D cartoon Short about <topic>, ending with 'Subscribe to my channel'."*
